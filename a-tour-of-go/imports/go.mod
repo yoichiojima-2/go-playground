@@ -1,3 +1,3 @@
-module example/user/imports
+module imports
 
 go 1.25.4

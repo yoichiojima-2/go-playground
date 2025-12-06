@@ -1,3 +1,3 @@
-module example/user/functions-go
+module functions-go
 
 go 1.25.4

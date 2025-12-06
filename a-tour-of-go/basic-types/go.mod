@@ -1,3 +1,3 @@
-module example/user/basic-types
+module basic-types
 
 go 1.25.4

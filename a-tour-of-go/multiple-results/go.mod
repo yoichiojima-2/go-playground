@@ -1,3 +1,3 @@
-module example/user/multiple-results
+module multiple-results
 
 go 1.25.4

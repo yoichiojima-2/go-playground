@@ -1,3 +1,3 @@
-module example/user/short-variable-declarations
+module short-variable-declarations
 
 go 1.25.4

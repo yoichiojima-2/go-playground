@@ -1,3 +1,3 @@
-module example/user/zero
+module zero
 
 go 1.25.4

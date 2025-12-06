@@ -1,3 +1,3 @@
-module example/user/variables
+module variables
 
 go 1.25.4

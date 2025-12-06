@@ -1,3 +1,3 @@
-module example/user/variables-with-initialisers
+module variables-with-initialisers
 
 go 1.25.4

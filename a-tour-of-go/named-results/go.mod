@@ -1,3 +1,3 @@
-module example/user/named-results
+module named-results
 
 go 1.25.4
